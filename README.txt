@@ -10,7 +10,7 @@
  |                                                       |
  | DISABLE INTERNET BEFORE OPENING "Virus"!              |
  |                                                       |
- | Run "Setup.bat" to do it automatically.               |
+ | Run "Setup.bat" to do it above automatically.         |
  |                                                       |
  | Run "Restore.bat" to undo the effects of "Setup.bat". |
  |                                                       |
