@@ -1,0 +1,22 @@
+
+# Disable roblox :)
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 web.roblox.com
+0.0.0.0 devforum.roblox.com
+# Api(s)
+0.0.0.0 accountsettings.roblox.com
+0.0.0.0 api.roblox.com
+0.0.0.0 auth.roblox.com
+0.0.0.0 avatar.roblox.com
+0.0.0.0 billing.roblox.com
+0.0.0.0 catalog.roblox.com
+0.0.0.0 chat.roblox.com
+0.0.0.0 develop.roblox.com
+0.0.0.0 friends.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 groups.roblox.com
+0.0.0.0 inventory.roblox.com
+0.0.0.0 notifications.roblox.com
+0.0.0.0 points.roblox.com
+0.0.0.0 presence.roblox.com
